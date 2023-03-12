@@ -151,50 +151,6 @@ Checking for NULLS
 4. CLTV top and bottom 
 5. Most quarter has churn
 
-# INSIGHTS
-
-<aside>
-💡 The Sample data Contains 7046 customers as the following chart says, 26.57% of them ***Churned*** form the company’s survives.
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled.png)
-
-</aside>
-
-<aside>
-💡 Although the Satisfaction level is relatively High, as the following chart says but still the unsatisfied customers tends to churn as the previous chart shows.
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%201.png)
-
-</aside>
-
-<aside>
-💡 On the other side, 90.32% of the customers subscribes for both the internet and phone services. which can indicate customers’ loyalty for the company.
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%202.png)
-
-</aside>
-
-<aside>
-💡 The company seems to have customers from all age segments almost equally, except fore people above 65 which make sense as people at that age tends to lose interest in phones and internet.
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%203.png)
-
-</aside>
-
-<aside>
-💡 Although there is 5 different types of offers, there is over 55% of the customers are not on offers. That allows us to work on them more to get them to use more of the company’s services.
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%204.png)
-
-</aside>
-
-<aside>
-💡 The average referrals per each age segment is quite close varies from 1.82 to 2.02 which is very close range, although it is at it’s peak with ages 19 - 28
-
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%205.png)
-
-</aside>
-
 # DASHBOARD
 
 FILE LINK:
@@ -203,12 +159,57 @@ FILE LINK:
 
 PICTURE:
 
-![Mohamed AbouElmagd_Chrun Project.png](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Mohamed_AbouElmagd_Chrun_Project.png)
+![Mohamed AbouElmagd_Chrun Project.png](README/Mohamed_AbouElmagd_Chrun_Project.png)
+ 
+# INSIGHTS
+
+<aside>
+💡 The Sample data Contains 7046 customers as the following chart says, 26.57% of them ***Churned*** form the company’s survives.
+
+![Untitled](README/Untitled.png)
+
+</aside>
+
+<aside>
+💡 Although the Satisfaction level is relatively High, as the following chart says but still the unsatisfied customers tends to churn as the previous chart shows.
+
+![Untitled](README/Untitled%201.png)
+
+</aside>
+
+<aside>
+💡 On the other side, 90.32% of the customers subscribes for both the internet and phone services. which can indicate customers’ loyalty for the company.
+
+![Untitled](README/Untitled%202.png)
+
+</aside>
+
+<aside>
+💡 The company seems to have customers from all age segments almost equally, except fore people above 65 which make sense as people at that age tends to lose interest in phones and internet.
+
+![Untitled](README/Untitled%203.png)
+
+</aside>
+
+<aside>
+💡 Although there is 5 different types of offers, there is over 55% of the customers are not on offers. That allows us to work on them more to get them to use more of the company’s services.
+
+![Untitled](README/Untitled%204.png)
+
+</aside>
+
+<aside>
+💡 The average referrals per each age segment is quite close varies from 1.82 to 2.02 which is very close range, although it is at it’s peak with ages 19 - 28
+
+![Untitled](README/Untitled%205.png)
+
+</aside>
+
 
 # VARIABLES SIGNIFICANCE
 
 after performing correlation for all of the categorical variables in the dataset, and visualizing the correlation using *CONDITIONAL FORMATING*
 
-![Untitled](Telecom%20Customers%20Churn%20Analysis%20using%20EXCEL%206c8d41f7f8af4335966467c4357ecac9/Untitled%206.png)
+![Untitled](README/Untitled%206.png)
 
 the darker colors specifies higher correlation
