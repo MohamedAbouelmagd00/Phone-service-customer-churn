@@ -7,7 +7,7 @@
 data description: [https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113)
 
 MY DASHBOARD :
-https://4t6fmp.sharepoint.com/❌/g/EcON--SIwspGs17Ie2yLaV4BnFKnbi1UmmmiAiAzvO_thQ?e=hZOAzh
+[https://4t6fmp.sharepoint.com/❌/g/EcON--SIwspGs17Ie2yLaV4BnFKnbi1UmmmiAiAzvO_thQ?e=hZOAzh](https://4t6fmp.sharepoint.com/:x:/g/EcON--SIwspGs17Ie2yLaV4BnFKnbi1UmmmiAiAzvO_thQ?e=hZOAzh)
 
 
 **Requirements:**
